@@ -1,0 +1,22 @@
+{
+  "name": "alexa-line-learner",
+  "version": "0.0.1",
+  "description": "For learning lines using Alexa",
+  "main": "*.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greghaddow/alexa-line-learner.git"
+  },
+  "author": "Greg Haddow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greghaddow/alexa-line-learner/issues"
+  },
+  "homepage": "https://github.com/greghaddow/alexa-line-learner#readme",
+  "dependencies": {
+    "ask-sdk": "^2.0.7"
+  }
+}
